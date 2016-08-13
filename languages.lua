@@ -35,7 +35,7 @@ return {
             banned = '_Banned!_'
         },
         bonus = {
-            general_pm = '_I\'ve sent you the message in private_',
+            general_pm = '_I\'ve sent you the message in private... من متن ایی را در چت خصوصی ارسال کردم_',
             no_user = 'I\'ve never seen this user before.\nIf you want to teach me who he is, forward me a message from him',
             the_group = 'the group',
             adminlist_admin_required = 'I\'m not a group Admin.\n*Only an Admin can see the administrators list*',
